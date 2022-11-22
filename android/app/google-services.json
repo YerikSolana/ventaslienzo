@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "148906014472",
+    "project_id": "ventaslienzo-b3bc0",
+    "storage_bucket": "ventaslienzo-b3bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148906014472:android:b985b4010a126e9c651ebd",
+        "android_client_info": {
+          "package_name": "com.example.ventaslienzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148906014472-b5tktmgs80cmiqemmmiprhi5etff9l2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPpCZ76I3MZ6LDesmNhlwVZZ2s1JigRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148906014472-b5tktmgs80cmiqemmmiprhi5etff9l2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148906014472-f5r0msum2vothgc0rr51cgipsudj751b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ventaslienzo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
